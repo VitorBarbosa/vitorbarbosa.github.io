@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: Sobre
 permalink: /about/
 ---
 
-Some information about you!
+Vitor Mascena Barbosa
 
-### More Information
+### Mais informações
 
-A place to include any other types of information that you'd like to include about yourself.
+Eu trabalho com desenvolvimento de software, mas esse blog não é apenas sobre isso.
 
-### Contact me
+### Entre em contato
 
-[email@domain.com](mailto:email@domain.com)
+[vitormbarbosa@gmail.com](mailto:vitormbarbosa@gmail.com)
